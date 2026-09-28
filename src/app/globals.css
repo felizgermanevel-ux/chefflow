@@ -37,3 +37,13 @@ textarea {
   outline: 3px solid var(--accent);
   outline-offset: 3px;
 }
+
+.field {
+  min-height: 3.25rem;
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 0.75rem;
+  background: white;
+  padding: 0.75rem 0.875rem;
+  color: var(--foreground);
+}
